@@ -1,0 +1,6 @@
+~ $ git clone https://github.com/Shelms627/Shelms627.github.io
+~ $ cd Shelms627.github.io
+~ $ echo "Hello World" > index.html
+~ $ git add --all
+~ $ git commit -m "Initial commit"
+~ $ git push -u origin main
