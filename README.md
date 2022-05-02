@@ -1,7 +1,5 @@
 # Shelms627.github.io
 
-Welcome
+Welcome!
 
-|
-
-V Click here to see my projects...
+Click on SHELMS627 down below to see my projects!
